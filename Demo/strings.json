@@ -12761,9 +12761,9 @@
     "credits_android_1": "Порт на Андроїд: MilesTheCreator",
     "credits_android_2": "Особл. подяка: Grossley, AngelPuzzle, Jockleholm",
     "obj_npc_room_slash_Other_10_gml_1121_0_c": "\\E3* Сьюзі^1, Сьюзі^1! А можеш мене знову на спині прокатати?/",
-    "obj_ch2_sceneex2a_slash_Step_0_gml_122_0": "* (...але у вас повні кишені.)/%",
+    "obj_ch2_sceneex2a_slash_Step_0_gml_122_0": "* (...але у тебе повні кишені.)/%",
     "obj_ch2_sceneex2a_slash_Step_0_gml_129_0": "* ...Кріс...^1?&* Кріс!^1?&* КРІС!?!?!?/",
-    "obj_ch2_sceneex2a_slash_Step_0_gml_130_0": "* \\@@ВИ ЩО, ЗАБИЛИ СВІЙ [Інвентаріум] ЯКОЮСЬ [Деш3вою Кабасою] ПРОСТО ЩОБ МЕНЕ НЕ ВПУСТИТИ!?/",
+    "obj_ch2_sceneex2a_slash_Step_0_gml_130_0": "* \\@@ТИ ЩО, ЗАБИЛИ СВІЙ [Інвентаріум] ЯКОЮСЬ [Деш3вою Кабасою] ПРОСТО ЩОБ МЕНЕ НЕ ВПУСТИТИ!?/",
     "obj_ch2_sceneex2a_slash_Step_0_gml_131_0": "* ЩО^2!&* ЗА^2!&* [^4Характерна поведінка]!?/",
     "obj_ch2_sceneex2a_slash_Step_0_gml_132_0": "* ТА ТУДИ Ж ДЕСЬ 48 ПРЕДМЕТІВ ВЛІЗТИ МОЖЕ!!!/",
     "obj_ch2_sceneex2a_slash_Step_0_gml_133_0": "* [Нащо] БУЛО ТАКИМ ЗАЙМАТИСЯ!^1?&* НАЩО!^1? [Н]!^1? [Назва]!^1? [Ейч]!?/",
@@ -12867,5 +12867,6 @@
     "DEVICE_FAILURE_slash_Step_0_gml_172_1": "PITMA",
     "DEVICE_MENU_slash_Create_0_gml_8_1": "ZVJAZOK",
     "DEVICE_MENU_slash_Draw_0_gml_289_1": "DELTARUNE, Rozdil ",
-    "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_52_1": " темний долар"
+    "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_52_1": " темний долар",
+    "obj_treasure_room_slash_Other_10_gml_65_1": "* \\@@(Ти відкриваєш скриню.^1)&* (Всередині лежать \\cY~1\\cW.)/"
 }
