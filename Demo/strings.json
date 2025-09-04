@@ -1232,7 +1232,7 @@
     "obj_readable_room1_slash_Other_10_gml_1204_0": "* OY^1, Snowy^1, whaddid I TELL YAH about knockin' the door so hahd!/",
     "obj_readable_room1_slash_Other_10_gml_1205_0": "* Don't^1!&* Do^1!&* It!/",
     "obj_readable_room1_slash_Other_10_gml_1206_0": "* It's REALLY gonna hurt yah face^1! We don't have arms^1, yah know!/%",
-    "obj_readable_room1_slash_Other_10_gml_1236_0": "* (Пишно прикрашені ворота.^1)&* (Схоже, вони замкнені.)/%",
+    "obj_readable_room1_slash_Other_10_gml_1236_0": "* (Пишно ковані ворота.^1)&* (Схоже, вони замкнені.)/%",
     "obj_readable_room1_slash_Other_10_gml_1245_0": "* Aww^1, Kris^1, like^1, if you wanna come in.../",
     "obj_readable_room1_slash_Other_10_gml_1246_0": "\\E4* Our cat-flap^1, is like^1, always open to you.../%",
     "obj_readable_room1_slash_Other_10_gml_1258_0": "* \\@6(Всередині будинку розкидані гори&всілякого мотлоху з котячою тематикою.)/",
@@ -5679,7 +5679,7 @@
     "obj_cybercity_trashcan_slash_Other_10_gml_16_0": "* (І знаходиш ~1$!)/",
     "obj_cybercity_trashcan_slash_Other_10_gml_23_0": "* (І знаходиш ~1!)/",
     "obj_cybercity_trashcan_slash_Other_10_gml_35_0": "* (І знаходиш сміття!)/%",
-    "obj_darkcontroller_slash_Draw_0_gml_47_0": "Т$ ~1",
+    "obj_darkcontroller_slash_Draw_0_gml_47_0": "~1 Т$",
     "obj_darkcontroller_slash_Draw_0_gml_272_0_b": "Рв.~1-Лідер#Керує командою#всілякими ДІЯми.",
     "obj_darkcontroller_slash_Draw_0_gml_273_0": "Рв.~1-Тактик#Керує командою#ДІЯМИ. Іноді.",
     "obj_darkcontroller_slash_Draw_0_gml_274_0": "Рв.~1-ЛіжкОглядач#Оглядає всі ліжка#без пояснень.",
@@ -12868,5 +12868,6 @@
     "DEVICE_MENU_slash_Create_0_gml_8_1": "ZVJAZOK",
     "DEVICE_MENU_slash_Draw_0_gml_289_1": "DELTARUNE, Rozdil ",
     "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_52_1": " темний долар",
-    "obj_treasure_room_slash_Other_10_gml_65_1": "* \\@@(Ти відкриваєш скриню.^1)&* (Всередині лежать \\cY~1\\cW.)/"
+    "obj_treasure_room_slash_Other_10_gml_65_1": "* \\@@(Ти відкриваєш скриню.^1)&* (Всередині лежать \\cY~1\\cW.)/",
+    "obj_shop_moneydisplay_moneycount_slash_Draw_0_gml_500_0": "~1$"
 }
