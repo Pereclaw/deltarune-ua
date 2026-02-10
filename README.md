@@ -126,7 +126,7 @@ https://github.com/pereclaw/deltarune-ua/assets/83290351/932e30af-a491-4bbf-bcfb
 <p>
 <a href="https://discord.gg/K8bcdcY6Td"><img alt="Discord" src="https://img.shields.io/discord/975491034823917658?label=Discord&logo=discord&style=social"></a>
 <a href="https://www.youtube.com/@pereclaw"><img alt="YouTube" src="https://img.shields.io/youtube/channel/subscribers/UCNG4f8zRUFxw1JvtQV8oh_w?label=Pereclaw&style=social"></a>
-<a href="https://t.me/pereclaws"><img alt="Telegram" src="https://img.shields.io/Pereclaw/v1?link=https://t.me/pereclaws?label=Pereclaw&logo=telegram&style=social&message=локалізація ігор"></a>
+<a href="https://t.me/pereclaws"><img alt="Telegram" src="https://img.shields.io/static/v1?link=https://t.me/pereclaws?label=Pereclaw&logo=telegram&style=social&message=локалізація ігор"></a>
 
 ### Організатори:
 - DanielleTlumach (Локалізація 1 і 2 розділів) — [Discord](https://discordapp.com/users/625325289656025089), [Steam](https://steamcommunity.com/id/DanielleRocz/)
