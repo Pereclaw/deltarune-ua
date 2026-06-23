@@ -12782,7 +12782,7 @@
   "scr_itemget_anytype_text_slash_scr_itemget_anytype_text_gml_52_1": " темний долар",
   "obj_treasure_room_slash_Other_10_gml_65_1": "* \\@@(Ти відкриваєш скриню.^1)&* (Всередині лежать \\cY~1\\cW.)/",
   "obj_shop_moneydisplay_moneycount_slash_Draw_0_gml_500_0": "~1 $",
-  "gml_Object_obj_chapter_continue_Create_0_gml_1_0": "Почати Розділ ~1",
+  "gml_Object_obj_chapter_continue_Create_0_gml_1_0": "Почати розділ ~1",
   "gml_Object_obj_chapter_continue_Create_0_gml_2_0": "Назад до ~1 розділу",
   "windowcaption": "DELTARUNE, Розділ "
 }
